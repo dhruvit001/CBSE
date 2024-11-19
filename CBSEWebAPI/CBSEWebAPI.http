@@ -1,0 +1,6 @@
+@CBSEWebAPI_HostAddress = http://localhost:5161
+
+GET {{CBSEWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
